@@ -5,6 +5,7 @@ public class Demo {
 		// TODO Auto-generated method stub
  System.out.println("school");
  System.out.println("college");
+		 System.out.println(" Enigennring college");
 	}
 
 }
